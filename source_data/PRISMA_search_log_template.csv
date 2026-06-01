@@ -1,0 +1,14 @@
+Field,Value,Example_or_note
+Database/source,Merged multi-database PubMed-format exports,"Source list includes PubMed, Web of Science, Embase, Scopus, Google Scholar/citation chasing, GEO DataSets, Europe PMC, CNKI, Wanfang and VIP; confirm final source list."
+Search date,,Still needs exact final search date/range.
+Search string,See luad_signature_methodology_for_codex.md,Exact non-PubMed database translations should be added if available.
+Records identified,5127,Recovered from LUAD_PubMed_extraction_workbook.xlsx merged exports.
+Records after deduplication,3994,Unique PMID-level records.
+Duplicates removed,1133,5127 - 3994.
+Title/abstract screened,3994,Unique records classified into A/B/C/D/E title-level classes.
+A/B full-text or abstract queue,1234,A1/A2 + B1/B2/B3.
+A-priority abstracts triaged,736,A1/A2 records.
+P0/P1 full-text target queue,460,180 P0 + 280 P1.
+Full-text assessed but excluded before audit corpus,282,Assessed/extracted on another platform and excluded because records did not meet audit requirements.
+Full-text assessed,178,Current structured audit corpus
+Formula-level excluded / L0,121,178 full texts - 57 formula-reproducible signatures.

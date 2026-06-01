@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this audit package, please cite the associated manuscript."
+title: "Deployability audit of published lung adenocarcinoma transcriptomic prognostic signatures"
+version: "0.1.0"
+date-released: "2026-06-02"
+authors:
+  - family-names: "FILL_AUTHOR_FAMILY_NAME"
+    given-names: "FILL_AUTHOR_GIVEN_NAME"
+repository-code: "FILL_GITHUB_REPOSITORY_URL"
+doi: "FILL_ZENODO_OR_OSF_DOI_AFTER_ARCHIVING"

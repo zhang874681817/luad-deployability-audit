@@ -1,0 +1,19 @@
+Stage,Node,Count,Notes
+Identification,Records identified from merged multi-database PubMed-format exports,5127,Recovered from LUAD_PubMed_extraction_workbook.xlsx; source databases were merged before deduplication
+Deduplication exclusion,Duplicate records removed,1133,Deduplicated primarily by PMID in recovered screening workbook
+Screening,Unique records after deduplication,3994,Unique PMID count
+Screening exclusion,Title-level records excluded or deferred outside A/B queue,2760,C1/D0/E0 title-level classes
+Screening,A/B full-text or abstract triage queue,1234,A1/A2 high-priority plus B1/B2/B3 boundary records
+Screening,A-priority A1/A2 records entering abstract triage,736,A1/A2 high-priority records
+Screening note,B-borderline records retained but not used as primary full-text target queue,498,B1/B2/B3 boundary records
+Eligibility,P0/P1 full-text target queue after abstract triage,460,P0 must-extract plus P1 likely-extract records
+Eligibility exclusion,P2/P3 abstract-level boundary/defer records,276,P2 borderline retained plus P3 deferred/excluded records
+Eligibility exclusion,Full-text-assessed P0/P1 records excluded before deployability audit,282,Assessed/extracted on another platform and removed because they did not meet audit requirements
+Eligibility,Full-text LUAD prognostic-signature articles audited,178,Completed full-text extraction corpus
+Eligibility exclusion,Not formula-reproducible / insufficiently reported,121,Retained for reporting-completeness analysis
+Included,Formula-reproducible signatures,57,Entered all-57 audit
+Included exclusion,Not advanced beyond all-57 landscape,30,"Gene coverage, weak signal, overlap, endpoint or role limitations"
+Included,Manuscript-triage signatures,27,Entered manuscript triage
+Included exclusion,Triage signatures not selected as primary,17,Secondary/sensitivity or continuous-only support
+Included,Primary candidates,10,Entered detailed deployability audit
+Included,Strict reported-cutoff primary candidate,1,A131

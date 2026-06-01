@@ -1,0 +1,11 @@
+Candidate ID,Evaluable GEO cohorts,Median gene coverage,Direction-consistent cohorts,Significant continuous HR cohorts,Median HR per SD,Median C-index,Median 1-year AUC,Median 3-year AUC,Median 5-year AUC,Median 3-year Brier,Median 5-year Brier,Clinical-adjusted evidence,Interpretation
+A131,8,1.0,8,6,1.517,0.636,0.655,0.659,0.663,0.192,0.218,6/8 adjusted models p<0.05,strict reported-cutoff candidate for further deployability evaluation
+A129,9,1.0,9,9,1.525,0.633,0.651,0.678,0.684,0.207,0.213,9/9 adjusted models p<0.05,strong score-portability candidate
+A067,8,1.0,8,6,1.395,0.627,0.674,0.659,0.655,0.211,0.232,5/8 adjusted models p<0.05,strong score-portability candidate
+A097,7,1.0,7,6,1.405,0.614,0.596,0.641,0.633,0.182,0.231,5/7 adjusted models p<0.05,strong score-portability candidate
+A168,8,1.0,8,6,1.386,0.6,0.615,0.628,0.607,0.193,0.226,6/8 adjusted models p<0.05,strong score-portability candidate
+A001,6,1.0,6,5,1.414,0.611,0.606,0.658,0.647,0.211,0.228,5/6 adjusted models p<0.05,strong score-portability candidate
+A059,5,1.0,5,3,1.382,0.62,0.609,0.653,0.665,0.221,0.229,3/5 adjusted models p<0.05,strong score-portability candidate
+A098,8,1.0,8,4,1.244,0.596,0.66,0.622,0.615,0.201,0.231,4/8 adjusted models p<0.05,moderate score-portability support
+A065,8,1.0,8,4,1.237,0.595,0.622,0.62,0.628,0.206,0.227,4/8 adjusted models p<0.05,lower-priority supportive score-portability signal
+A173,8,1.0,8,5,1.314,0.585,0.606,0.643,0.607,0.197,0.222,5/8 adjusted models p<0.05,lower-priority supportive score-portability signal

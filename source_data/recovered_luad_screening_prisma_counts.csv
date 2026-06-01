@@ -1,0 +1,15 @@
+﻿Recovered_item,Count_or_value,Source_file,Suggested_use,Caveat
+Original merged multi-database PubMed-format records,5127,local path removed,Can support records identified,Merged-export count; per-database raw hit counts not separately retained.
+Unique PMID after deduplication,3994,local path removed,Can support deduplicated count,Deduplicated primarily by PMID after database exports were merged.
+A+B fulltext/abstract queue,1234,local path removed,Can support title-level triage queue,"Queue includes A and B levels, not all full-text audited articles."
+A priority title-level records,736,local path removed,Can support A1/A2 high-priority title-level count,A1/A2 used for abstract triage.
+B borderline title-level records,498,local path removed,Can support B1/B2/B3 boundary count,Boundary candidates; not all were abstract/full-text extracted.
+A1/A2 abstracts triaged,736,local path removed,Can support abstract-screened A1/A2 count,Abstract triage only for A1/A2 subset.
+P0 full-text must extract,180,local path removed,Can support high-priority full-text target count,Not identical to final 178 audited full texts.
+P1 likely extract,280,local path removed,Can support second-priority full-text target count,Not identical to final 178 audited full texts.
+P0+P1 full-text queue,460,local path removed,Can support post-abstract full-text target count,Full texts were assessed across platforms; 282 were removed before the final audit corpus because they did not meet requirements.
+Full-text assessed but excluded before audit corpus,282,author clarification,Can support full-text exclusion count,Row-level exclusion reasons from the other platform are not currently in the local package.
+P2 borderline retained,113,local path removed,Can support boundary-retained count,Not used as full-text denominator unless explicitly audited.
+P3 deferred/excluded,163,local path removed,Can support abstract-level defer/exclude count,Not formula-level exclusion.
+Completed full-text extraction corpus,178,outputs/luad_signature_extraction/LUAD_signature_fulltext_extraction.xlsx,Current manuscript full-text corpus,This remains the auditable start of formula reproducibility analysis.
+Full-text unique PMIDs present in A1/A2 abstract triage,161,local path removed,Cross-check linkage,8 unique full-text PMIDs not found in A1/A2 abstract triage.

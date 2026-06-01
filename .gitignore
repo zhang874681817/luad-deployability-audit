@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+
+# Local raw or regenerated data directories
+data/raw/
+data/processed/
+work/
+outputs/
+
+# Large local archives generated during packaging
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Editor and OS noise
+.idea/
+.vscode/
+~$*

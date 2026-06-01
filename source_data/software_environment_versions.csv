@@ -1,0 +1,10 @@
+package,version,status
+pandas,3.0.0,installed
+numpy,2.3.5,installed
+matplotlib,3.10.8,installed
+scipy,1.17.0,installed
+openpyxl,3.1.5,installed
+python-docx,1.2.0,installed
+pillow,12.1.0,installed
+PyMuPDF,1.27.2.3,installed
+pypdf,not installed,not installed

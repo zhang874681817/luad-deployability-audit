@@ -1,0 +1,9 @@
+﻿Reason_category_number,Reason_category,N,Source,Percent_of_282
+1,Not LUAD-specific,0,Author-provided manual table-screening aggregate category; no records assigned in the 282-count summary,0.0
+2,Not transcriptomic expression signature,17,Author-provided manual table-screening aggregate category for the 282 pre-audit full-text-target exclusions,6.0
+3,Not prognostic survival-signature study,89,Author-provided manual table-screening aggregate category for the 282 pre-audit full-text-target exclusions,31.6
+4,No multigene/risk-score model,0,Author-provided manual table-screening aggregate category; no records assigned in the 282-count summary,0.0
+5,Full text or supplement not available,42,Author-provided manual table-screening aggregate category for the 282 pre-audit full-text-target exclusions,14.9
+6,"Duplicate, review, meta-analysis or secondary report",66,Author-provided manual table-screening aggregate category for the 282 pre-audit full-text-target exclusions,23.4
+7,Mixed/pan-cancer study without separable LUAD model,68,Author-provided manual table-screening aggregate category for the 282 pre-audit full-text-target exclusions,24.1
+8,Other audit-scope mismatch,0,Author-provided manual table-screening aggregate category; no records assigned in the 282-count summary,0.0
