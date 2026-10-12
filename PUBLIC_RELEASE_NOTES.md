@@ -1,5 +1,12 @@
 # Public Release Notes
 
+## v1.0.1 (2026-10-12)
+
+This visual-only correction removes the former non-data Figure 5D panel and
+reflows Figure 5 as three data-driven panels. The clinical increment results,
+likelihood-ratio test proportions, deployability scorecard values, source data,
+study conclusions and interpretation boundaries are unchanged.
+
 ## v1.0.0 (2026-10-12)
 
 This release synchronizes the public repository with the final manuscript audit package.

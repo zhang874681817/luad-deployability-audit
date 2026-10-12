@@ -9,7 +9,7 @@ This is not a new LUAD prognostic-signature discovery study. The audit evaluates
 ## Repository and Archive
 
 - Public repository: https://github.com/zhang874681817/luad-deployability-audit
-- Current release: `v1.0.0`
+- Current release: `v1.0.1`
 - Concept DOI (resolves to the latest Zenodo version): https://doi.org/10.5281/zenodo.20507011
 - Previous `v0.1.0` version DOI: https://doi.org/10.5281/zenodo.20507012
 
@@ -47,7 +47,7 @@ Deployability of published lung adenocarcinoma transcriptomic prognostic signatu
 
 Archived concept DOI: https://doi.org/10.5281/zenodo.20507011
 
-Release tag: `v1.0.0`
+Release tag: `v1.0.1`
 
 ## License
 
