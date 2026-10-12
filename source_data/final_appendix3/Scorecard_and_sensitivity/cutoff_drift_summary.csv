@@ -1,0 +1,11 @@
+Signature_ID,Article_ID,tested_GEOs,reported_cutoff_ok_tests,single_group_collapse_tests,insufficient_gene_coverage_tests,median_reported_cutoff_percentile,median_abs_drift_from_median,max_abs_drift_from_median,single_group_collapse_rate
+A001_PMID34499810,A001,9,0,0,1,,,,0.0
+A059_PMID38965505,A059,9,0,0,1,,,,0.0
+A065_PMID33858449,A065,9,0,0,1,,,,0.0
+A067_PMID40211263,A067,9,0,0,0,,,,0.0
+A097_PMID36971680,A097,9,0,7,2,0.0,0.5,0.5,0.7777777777777778
+A098_PMID32592319,A098,9,0,0,1,,,,0.0
+A129_PMID37583701,A129,9,0,0,0,,,,0.0
+A131_PMID39735553,A131,9,8,0,1,0.7915094339622641,0.29150943396226414,0.4829059829059828,0.0
+A168_PMID35711827,A168,9,0,0,1,,,,0.0
+A173_PMID34434660,A173,9,0,0,0,,,,0.0

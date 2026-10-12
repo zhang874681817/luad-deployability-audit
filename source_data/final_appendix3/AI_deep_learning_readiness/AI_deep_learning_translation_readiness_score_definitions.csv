@@ -1,0 +1,11 @@
+﻿domain,range,definition
+machine_readable_formula_score,0-2,"Complete genes, coefficients and formula required for computational reuse."
+feature_coverage_score,0-2,Complete signature gene coverage in external scoring matrices.
+external_sample_scale_score,0-2,"0 <750, 1 750-1499, 2 >=1500 externally scored samples."
+cross_cohort_platform_breadth_score,0-2,Breadth of evaluable no-overlap GEO tests and platform classes.
+endpoint_label_readiness_score,0-2,Compatibility between source endpoint and OS-based external evaluation.
+preprocessing_code_transparency_score,0-2,Availability of preprocessing detail and code/data information.
+threshold_calibration_readiness_score,0-2,Conservative combination of cutoff transportability and high-risk proportion drift.
+clinical_integration_score,0-2,Increment over available clinical covariates in external models.
+prospective_locked_assay_score,0-2,Prospective validation and locked assay/preprocessing readiness.
+overfitting_resilience_score,0-2,Leave-one-cohort-out direction retention and heterogeneity.

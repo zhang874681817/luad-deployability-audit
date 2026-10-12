@@ -1,0 +1,21 @@
+﻿Dataset,GSE,Model,N,Events,C_index,HR_per_SD,Cox_p,status,platform_class,Scoring_transform
+TCGA_training_refit,TCGA-LUAD,AI_DeepSurv_signature_gene_model,515,185,0.9997469832619696,1.6050480628634152e+181,0.0,,,
+GEO_external,GSE13213,AI_DeepSurv_signature_gene_model,117,49,0.4581314878892734,0.7842726905511979,0.09313715241808751,ok,GPL6480,unchanged
+GEO_external,GSE30219,AI_DeepSurv_signature_gene_model,289,196,0.5493147870998034,1.2338435426650776,0.0008519547347202624,ok,GPL570,unchanged
+GEO_external,GSE31210,AI_DeepSurv_signature_gene_model,226,35,0.5023300658846216,1.1213402256711853,0.45739781179009403,ok,GPL570,log2(x+1) applied to unlogged-looking matrix
+GEO_external,GSE3141,AI_DeepSurv_signature_gene_model,110,58,0.5844968704862783,1.3099229959385432,0.03659171186745152,ok,GPL570,log2(x+1) applied to unlogged-looking matrix
+GEO_external,GSE37745,AI_DeepSurv_signature_gene_model,106,77,0.5047179281268821,1.0353166403011502,0.7413864208471062,ok,GPL570,unchanged
+GEO_external,GSE42127,AI_DeepSurv_signature_gene_model,131,41,0.4465427962229668,0.8559239596691534,0.38645606671761457,ok,GPL6884,unchanged
+GEO_external,GSE50081,AI_DeepSurv_signature_gene_model,128,52,0.43289353958143767,0.6792618607720359,0.059769903122720375,ok,GPL570,unchanged
+GEO_external,GSE68465,AI_DeepSurv_signature_gene_model,442,236,0.4756873592406173,0.9019686811010688,0.10641414006316668,ok,GPL96,log2(x+1) applied to unlogged-looking matrix
+GEO_external,GSE72094,AI_DeepSurv_signature_gene_model,398,113,0.4682571239231279,1.0016735415035352,0.9854692391692383,ok,GPL15048,unchanged
+TCGA_training_refit,TCGA-LUAD,Penalized_linear_Cox_signature_gene_baseline,515,185,0.7924484235110938,4.621366589953792,8.882676128734619e-46,,,
+GEO_external,GSE13213,Penalized_linear_Cox_signature_gene_baseline,117,49,0.5688581314878892,1.1091870975053044,0.4463509441681079,ok,GPL6480,unchanged
+GEO_external,GSE30219,Penalized_linear_Cox_signature_gene_baseline,289,196,0.5260146139624967,1.1469917215484928,0.0812530465575186,ok,GPL570,unchanged
+GEO_external,GSE31210,Penalized_linear_Cox_signature_gene_baseline,226,35,0.6961272698055601,1.6767743967470543,0.0002962645283091327,ok,GPL570,log2(x+1) applied to unlogged-looking matrix
+GEO_external,GSE3141,Penalized_linear_Cox_signature_gene_baseline,110,58,0.5544053923928743,1.1548322210722142,0.2726633805236139,ok,GPL570,log2(x+1) applied to unlogged-looking matrix
+GEO_external,GSE37745,Penalized_linear_Cox_signature_gene_baseline,106,77,0.5268018470186709,1.0111913576346132,0.9206324454305358,ok,GPL570,unchanged
+GEO_external,GSE42127,Penalized_linear_Cox_signature_gene_baseline,131,41,0.5287846481876333,1.1498114892277531,0.3779398027247723,ok,GPL6884,unchanged
+GEO_external,GSE50081,Penalized_linear_Cox_signature_gene_baseline,128,52,0.4886260236578708,0.9076174834845592,0.4984760274094827,ok,GPL570,unchanged
+GEO_external,GSE68465,Penalized_linear_Cox_signature_gene_baseline,442,236,0.5436599706767031,1.087569394035343,0.19348050997209046,ok,GPL96,log2(x+1) applied to unlogged-looking matrix
+GEO_external,GSE72094,Penalized_linear_Cox_signature_gene_baseline,398,113,0.5869449966865474,1.3056714224280883,0.0027252583008399722,ok,GPL15048,unchanged

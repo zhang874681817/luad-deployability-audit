@@ -1,0 +1,26 @@
+Panel,Category,Count,Percent
+Evidence level,L3 score portable,27,47.368421052631575
+Evidence level,L1 formula reproducible,19,33.33333333333333
+Evidence level,L2 externally scoreable,10,17.543859649122805
+Evidence level,L5 clinical deployability candidate,1,1.7543859649122806
+Endpoint,OS only,41,71.9298245614035
+Endpoint,Mixed endpoints,16,28.07017543859649
+Source data type,TCGA+GEO+Private/internal,27,47.368421052631575
+Source data type,TCGA+GEO,14,24.561403508771928
+Source data type,TCGA+Private/internal,14,24.561403508771928
+Source data type,Private/internal,1,1.7543859649122806
+Source data type,GEO+Private/internal,1,1.7543859649122806
+Omics/platform,lncRNA/non-coding RNA,30,52.63157894736842
+Omics/platform,mRNA/transcriptomic,14,24.561403508771928
+Omics/platform,miRNA,13,22.807017543859647
+Cutoff reporting,Median/rule only,39,68.42105263157895
+Cutoff reporting,Numeric cutoff reported,12,21.052631578947366
+Cutoff reporting,"Rule reported, numeric value unclear",6,10.526315789473683
+Original model code available,Unclear/not reported,57,100.0
+Calculator available,Unclear/not reported,57,100.0
+Code/calculator availability,Original code/calculator unclear or not reported,57,100.0
+Public data available,Public data used/reported,57,100.0
+Preprocessing details reported,Preprocessing details reported,47,82.45614035087719
+Preprocessing details reported,Unclear/not reported,10,17.543859649122805
+Clinical intended use,Unclear/not reported,57,100.0
+Reporting completeness score,8-10,57,100.0

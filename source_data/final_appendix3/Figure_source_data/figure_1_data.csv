@@ -1,0 +1,14 @@
+﻿step,count,panel
+Records identified,10061,a
+Unique records,7262,a
+Full-text audit corpus,178,a
+Formula-reproducible,57,a
+Forward candidates,27,a
+Primary candidates,10,a
+Strict cutoff candidate,1,a
+Duplicates,2799,b
+Before audit attrition,7084,b
+Non-reproducible,121,b
+Not advanced,30,b
+Not primary,17,b
+Not cutoff-ready,9,b

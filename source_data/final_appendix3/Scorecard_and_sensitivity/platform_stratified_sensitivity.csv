@@ -1,0 +1,4 @@
+analysis,evaluable_tests,direction_consistent_n,direction_consistent_rate,direction_consistent_ci95_low,direction_consistent_ci95_high,significant_p05_n,significant_p05_rate,median_HR_per_SD,median_HR_ci95_low,median_HR_ci95_high,platform_class
+Platform stratum: Affymetrix microarray,57,57,1.0,0.936858991216536,0.9999999999999999,39,0.6842105263157895,1.3417908178922784,1.279911355781047,1.4273339314577351,Affymetrix microarray
+Platform stratum: Illumina/other microarray,9,9,1.0,0.7008472464490407,1.0,8,0.8888888888888888,1.5070882426939376,1.315240508091279,1.6595099999689569,Illumina/other microarray
+Platform stratum: Other/unspecified,14,14,1.0,0.7846829880728186,1.0,12,0.8571428571428571,1.518548745693967,1.3569685101790163,1.656325985184519,Other/unspecified

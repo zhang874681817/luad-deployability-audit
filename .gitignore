@@ -18,6 +18,7 @@ outputs/
 *.7z
 *.tar
 *.tar.gz
+!supplementary/Appendix_3_Data.zip
 
 # Editor and OS noise
 .idea/

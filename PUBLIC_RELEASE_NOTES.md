@@ -1,24 +1,26 @@
 # Public Release Notes
 
-This upload-ready directory was prepared from the manuscript repository package.
+## v1.0.0 (2026-10-12)
 
-Final cleanup actions:
+This release synchronizes the public repository with the final manuscript audit package.
 
-- Removed author-completion placeholder files from the upload-ready package.
-- Removed Python bytecode caches.
-- Removed internal publication-readiness CSV files that tracked missing repository URL/DOI status.
-- Replaced provisional environment pins with a reproducible minimum-version environment.
-- Added `.gitignore`, GitHub upload instructions and a PowerShell upload helper.
-- Preserved scripts, main figures, figure/table source data and supplementary data.
+### Added or updated
 
-Validation performed:
+- Final three-database reconciliation: 10,061 records before cross-database deduplication, 2,799 cross-database duplicates removed and 7,262 unique verification records.
+- Reconciled 178-article audit corpus and final PRISMA source data.
+- Revised Figures 1-6 and their source data.
+- Ten-domain deployability scorecard and sensitivity analyses.
+- Exploratory neural-network benchmark, optimization summaries and stability-guided 5-gene/40-gene analyses.
+- Final Appendix 3 data snapshot, clinical-model table and figure-source package.
+- Updated author, citation, licensing and reproducibility metadata.
 
-- Python scripts: syntax checked with `py_compile`.
-- JavaScript modules: syntax checked with `node --check`.
-- No files over the GitHub 100 MB single-file limit were found.
+### Interpretation boundary
 
-Items to complete after upload:
+This is a systematic computational deployability, reproducibility and external transportability audit of published LUAD transcriptomic prognostic signatures. It is not a new prognostic-model discovery study and does not constitute clinical deployment validation. The AI and core-score analyses are exploratory and post hoc.
 
-- Record the GitHub URL.
-- Record the frozen commit hash printed by `upload_to_github.ps1`.
-- Archive the GitHub release through Zenodo or OSF and record the DOI.
+### Validation
+
+- Python scripts were syntax checked.
+- The file manifest was regenerated with SHA256 checksums.
+- No release file exceeds the GitHub 100 MB single-file limit.
+- Main-figure files were checked against the final manuscript package.

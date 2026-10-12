@@ -1,8 +1,8 @@
 Stage,Node,Count,Notes
-Identification,Records identified from merged multi-database PubMed-format exports,5127,Recovered from LUAD_PubMed_extraction_workbook.xlsx; source databases were merged before deduplication
-Deduplication exclusion,Duplicate records removed,1133,Deduplicated primarily by PMID in recovered screening workbook
-Screening,Unique records after deduplication,3994,Unique PMID count
-Screening exclusion,Title-level records excluded or deferred outside A/B queue,2760,C1/D0/E0 title-level classes
+Identification,All-database records before cross-database deduplication,10061,"PubMed, Embase and Web of Science within-database unique records before DOI/PMID/title cross-database deduplication; PubMed 3994, Embase 2649, Web of Science 3418"
+Deduplication exclusion,Cross-database duplicate records removed,2799,"Deduplicated by DOI, then PMID, then normalized title"
+Screening,Final all-three-database unique verification records,7262,"Unique records after PubMed, Embase and Web of Science cross-database deduplication"
+Screening exclusion,Records not represented in completed A/B audit queue,6028,Database-level reconciliation count minus existing completed A/B triage queue; downstream audit corpus unchanged unless newly eligible records are extracted and classified
 Screening,A/B full-text or abstract triage queue,1234,A1/A2 high-priority plus B1/B2/B3 boundary records
 Screening,A-priority A1/A2 records entering abstract triage,736,A1/A2 high-priority records
 Screening note,B-borderline records retained but not used as primary full-text target queue,498,B1/B2/B3 boundary records

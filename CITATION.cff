@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this audit package, please cite the associated manuscript and archived release."
+title: "Deployability of published lung adenocarcinoma transcriptomic prognostic signatures: a systematic audit of computational reproducibility and external transportability"
+type: software
+version: "1.0.0"
+date-released: "2026-10-12"
+authors:
+  - family-names: "Liu"
+    given-names: "Min"
+  - family-names: "Zhang"
+    given-names: "Chengkai"
+  - family-names: "Dong"
+    given-names: "Bowen"
+  - family-names: "Ni"
+    given-names: "Yunfeng"
+  - family-names: "Yan"
+    given-names: "Xiaolong"
+  - family-names: "Lei"
+    given-names: "Jie"
+repository-code: "https://github.com/zhang874681817/luad-deployability-audit"
+url: "https://github.com/zhang874681817/luad-deployability-audit/releases/tag/v1.0.0"
+doi: "10.5281/zenodo.20507011"
+license: "MIT AND CC-BY-4.0"
+keywords:
+  - lung adenocarcinoma
+  - transcriptomic signature
+  - reproducibility
+  - external transportability
+  - deployability audit

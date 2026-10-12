@@ -1,0 +1,5 @@
+analysis,evaluable_tests,direction_consistent_n,direction_consistent_rate,direction_consistent_ci95_low,direction_consistent_ci95_high,significant_p05_n,significant_p05_rate,median_HR_per_SD,median_HR_ci95_low,median_HR_ci95_high
+Primary analysis: current training-overlap exclusion,75,75,1.0,0.9512744540953,1.0,54,0.72,1.38233233496422,1.304110384229744,1.449874012986092
+Sensitivity: no training-overlap exclusion,80,80,1.0,0.954180263735425,1.0,59,0.7375,1.4028803442360949,1.3120420944835112,1.481560586285966
+Sensitivity: OS-endpoint signatures only,68,68,1.0,0.9465268034119508,1.0,48,0.7058823529411765,1.38096459421775,1.3040807024256058,1.4808495879936194
+Sensitivity: GEO cohorts with N >= 100,75,75,1.0,0.9512744540953,1.0,54,0.72,1.3823323349642207,1.3088436808757435,1.4498740129860919

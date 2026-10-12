@@ -1,0 +1,19 @@
+Stage,Node,Count,Notes
+Identification,All-database records before cross-database deduplication,10061,"PubMed, Embase and Web of Science within-database unique records before DOI/PMID/title cross-database deduplication; PubMed 3994, Embase 2649, Web of Science 3418"
+Deduplication exclusion,Cross-database duplicate records removed,2799,"Deduplicated by DOI, then PMID, then normalized title"
+Screening,Final all-three-database unique verification records,7262,"Unique records after PubMed, Embase and Web of Science cross-database deduplication"
+Screening exclusion,Records not represented in completed A/B audit queue,6028,Database-level reconciliation count minus existing completed A/B triage queue; downstream audit corpus unchanged unless newly eligible records are extracted and classified
+Screening,A/B full-text or abstract triage queue,1234,A1/A2 high-priority plus B1/B2/B3 boundary records
+Screening,A-priority A1/A2 records entering abstract triage,736,A1/A2 high-priority records
+Screening note,B-borderline records retained but not used as primary full-text target queue,498,B1/B2/B3 boundary records
+Eligibility,P0/P1 full-text target queue after abstract triage,460,P0 must-extract plus P1 likely-extract records
+Eligibility exclusion,P2/P3 abstract-level boundary/defer records,276,P2 borderline retained plus P3 deferred/excluded records
+Eligibility exclusion,Full-text-assessed P0/P1 records excluded before deployability audit,282,Assessed/extracted on another platform and removed because they did not meet audit requirements
+Eligibility,Full-text LUAD prognostic-signature articles audited,178,Completed full-text extraction corpus
+Eligibility exclusion,Not formula-reproducible / insufficiently reported,121,Retained for reporting-completeness analysis
+Included,Formula-reproducible signatures,57,Entered all-57 audit
+Included exclusion,Not advanced beyond all-57 landscape,30,"Gene coverage, weak signal, overlap, endpoint or role limitations"
+Included,Manuscript-triage signatures,27,Entered manuscript triage
+Included exclusion,Triage signatures not selected as primary,17,Secondary/sensitivity or continuous-only support
+Included,Primary candidates,10,Entered detailed deployability audit
+Included,Strict reported-cutoff primary candidate,1,A131

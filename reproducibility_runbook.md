@@ -39,3 +39,10 @@ The upload-ready package was checked this way during final cleanup.
 - Supplementary workbooks and figures: `supplementary/`
 
 Raw third-party matrices are not redistributed.
+
+## Public Archive
+
+- Repository: https://github.com/zhang874681817/luad-deployability-audit
+- Release tag: `v1.0.0`
+- Zenodo concept DOI: https://doi.org/10.5281/zenodo.20507011
+- Previous `v0.1.0` version DOI: https://doi.org/10.5281/zenodo.20507012

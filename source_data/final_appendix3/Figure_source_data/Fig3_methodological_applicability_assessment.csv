@@ -1,0 +1,24 @@
+Domain_group,Domain,Concern,Count,Percent
+Applicability/deployability,Assay/platform standardization,High concern,13,22.807017543859647
+Applicability/deployability,Assay/platform standardization,Unclear,44,77.19298245614034
+Applicability/deployability,Clinical action threshold,High concern,57,100.0
+Applicability/deployability,Cutoff interpretability,Low concern,12,21.052631578947366
+Applicability/deployability,Cutoff interpretability,Unclear,45,78.94736842105263
+Applicability/deployability,Intended clinical population,Unclear,57,100.0
+Applicability/deployability,Prospective validation readiness,High concern,57,100.0
+Methodological,Model specification/reproducibility,Low concern,55,96.49122807017544
+Methodological,Model specification/reproducibility,Unclear,2,3.508771929824561
+Methodological,Outcome definition,Low concern,41,71.9298245614035
+Methodological,Outcome definition,Unclear,16,28.07017543859649
+Methodological,Predictor measurement/preprocessing,High concern,13,22.807017543859647
+Methodological,Predictor measurement/preprocessing,Low concern,35,61.40350877192983
+Methodological,Predictor measurement/preprocessing,Unclear,9,15.789473684210526
+Methodological,Source cohort selection,High concern,42,73.68421052631578
+Methodological,Source cohort selection,Low concern,9,15.789473684210526
+Methodological,Source cohort selection,Unclear,6,10.526315789473683
+Methodological,Statistical analysis/performance reporting,High concern,1,1.7543859649122806
+Methodological,Statistical analysis/performance reporting,Low concern,8,14.035087719298245
+Methodological,Statistical analysis/performance reporting,Unclear,48,84.21052631578947
+Methodological,Validation independence,High concern,42,73.68421052631578
+Methodological,Validation independence,Low concern,10,17.543859649122805
+Methodological,Validation independence,Unclear,5,8.771929824561402

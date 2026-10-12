@@ -1,0 +1,30 @@
+{
+  "title": "Deployability of published lung adenocarcinoma transcriptomic prognostic signatures: a systematic audit of computational reproducibility and external transportability",
+  "description": "Code, derived data, source data and figures for a systematic computational deployability, reproducibility and external transportability audit of published lung adenocarcinoma transcriptomic prognostic signatures. This release is not a new prognostic-model discovery study and does not constitute clinical deployment validation. Exploratory AI and stability-guided core-score analyses are post hoc.",
+  "upload_type": "software",
+  "creators": [
+    {"name": "Liu, Min"},
+    {"name": "Zhang, Chengkai"},
+    {"name": "Dong, Bowen"},
+    {"name": "Ni, Yunfeng"},
+    {"name": "Yan, Xiaolong"},
+    {"name": "Lei, Jie"}
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "lung adenocarcinoma",
+    "transcriptomic signature",
+    "reproducibility",
+    "external transportability",
+    "deployability audit"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/zhang874681817/luad-deployability-audit",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "version": "v1.0.0"
+}

@@ -1,0 +1,4 @@
+﻿AI_DL_readiness_stage,candidate_count,median_total_score,min_total_score,max_total_score,candidates
+AI/DL high-priority redevelopment candidate,1,17.0,17,17,A131
+AI/DL redevelopment-prioritizable,8,14.5,14,16,A065; A098; A173; A067; A001; A059; A129; A168
+AI/DL research-use candidate,1,12.0,12,12,A097

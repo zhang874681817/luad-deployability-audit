@@ -1,11 +1,7 @@
 # Code Availability
 
-Analysis and figure-generation scripts are provided in `scripts/`.
+Analysis and figure-generation scripts are available at https://github.com/zhang874681817/luad-deployability-audit and archived under the Zenodo concept DOI https://doi.org/10.5281/zenodo.20507011. The synchronized release is tagged `v1.0.0`.
 
-After uploading this directory to GitHub, record:
+The reproducibility entry points are `REPRODUCIBILITY.md`, `reproducibility_runbook.md`, `environment.yml`, `requirements.txt` and the scripts in `scripts/`.
 
-- Public repository URL.
-- Frozen commit hash from `git rev-parse HEAD`.
-- Archival DOI after creating a Zenodo or OSF archive.
-
-The upload helper script `upload_to_github.ps1` prints the commit hash after a successful commit.
+The final search-merge workflow is implemented in `scripts/merge_pubmed_nonpubmed_records.py`. Scorecard, sensitivity-analysis and exploratory AI workflows are also included in `scripts/`.

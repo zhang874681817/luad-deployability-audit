@@ -1,0 +1,73 @@
+﻿selection_rule,preprocess,feature_k,hidden,l2,GSE,status,N,Events,C_index,HR_per_SD,Cox_p,platform_class,Scoring_transform
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE13213,ok,117,49,0.5739331026528258,1.1987692161024754,0.19198211084261757,GPL6480,unchanged
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE30219,ok,289,196,0.4981072277489216,0.9879681033973957,0.8734696563084822,GPL570,unchanged
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE31210,ok,226,35,0.5092399164390166,1.063294086655152,0.7021966763589833,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE3141,ok,110,58,0.5587385652383245,1.1980925319275917,0.16026650464356923,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE37745,ok,106,77,0.4814294318409958,1.0041376222669078,0.9728662022447273,GPL570,unchanged
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE42127,ok,131,41,0.4483703929332927,0.8602371054081579,0.3754363094805943,GPL6884,unchanged
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE50081,ok,128,52,0.43971792538671517,0.8403685301281864,0.20754014583730063,GPL570,unchanged
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE68465,ok,442,236,0.5390498647198416,1.1143816733083092,0.09425252846749743,GPL96,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_rank_normal_linear,cohort_rank_normal,100,0,0.01,GSE72094,ok,398,113,0.5300530152418821,1.1426673982378208,0.14652393373919217,GPL15048,unchanged
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE13213,ok,117,49,0.5815455594002307,1.197072025070191,0.1927460884540152,GPL6480,unchanged
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE30219,ok,289,196,0.5065293306335652,1.0092116838953884,0.8980957420584003,GPL570,unchanged
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE31210,ok,226,35,0.5916760404949382,1.495100690192199,0.016244964541376385,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE3141,ok,110,58,0.5433317284545017,1.0730452966353266,0.5844065314232403,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE37745,ok,106,77,0.5609315398514354,1.333775865787485,0.0164244960112644,GPL570,unchanged
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE42127,ok,131,41,0.5062442887602803,1.0809958629917582,0.635486660740078,GPL6884,unchanged
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE50081,ok,128,52,0.5268425841674249,1.0780269897814638,0.5890163141167974,GPL570,unchanged
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE68465,ok,442,236,0.5537870886803005,1.1063446163967547,0.10174145970534776,GPL96,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_rank_normal_deep,cohort_rank_normal,50,8,0.001,GSE72094,ok,398,113,0.576441351888668,1.2424586661002344,0.022904319921261948,GPL15048,unchanged
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE13213,ok,117,49,0.5688581314878892,1.1091993255999906,0.446296139906002,GPL6480,unchanged
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE30219,ok,289,196,0.526043959268715,1.1471660532174346,0.08091586385382106,GPL570,unchanged
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE31210,ok,226,35,0.6961272698055601,1.6768310490513578,0.00029578300024092765,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE3141,ok,110,58,0.5544053923928743,1.1548034413868833,0.2727269648229454,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE37745,ok,106,77,0.5268018470186709,1.011185401929207,0.9206742759745961,GPL570,unchanged
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE42127,ok,131,41,0.5287846481876333,1.1499033609836893,0.3776559288673752,GPL6884,unchanged
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE50081,ok,128,52,0.4886260236578708,0.9077317977728471,0.4990190773271786,GPL570,unchanged
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE68465,ok,442,236,0.5436448555752051,1.087594756221335,0.19336170299839073,GPL96,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_tcga_locked_linear,tcga_locked,100,0,0.001,GSE72094,ok,398,113,0.5869781312127237,1.3057300840029493,0.002720351217740022,GPL15048,unchanged
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE13213,ok,117,49,0.49204152249134947,0.975888440135658,0.8621839856715495,GPL6480,unchanged
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE30219,ok,289,196,0.5141004196378789,1.057719828697332,0.33933996747301864,GPL570,unchanged
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE31210,ok,226,35,0.38454121806202796,1.0629546549933804,0.6393814854504398,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE3141,ok,110,58,0.5156475686085701,1.1127347980498838,0.2619494532160144,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE37745,ok,106,77,0.5462758482232484,1.1024600954266102,0.39564534188425854,GPL570,unchanged
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE42127,ok,131,41,0.475936643314042,0.8876239318207125,0.774127193867628,GPL6884,unchanged
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE50081,ok,128,52,0.4638307552320291,0.8550061347243154,0.4833684996114238,GPL570,unchanged
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE68465,ok,442,236,0.5243504285131275,1.07659415476808,0.15198160504991043,GPL96,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_tcga_locked_deep,tcga_locked,100,4,0.1,GSE72094,ok,398,113,0.4545062955599735,0.7592703378256525,0.5340765517391681,GPL15048,unchanged
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE13213,ok,117,49,0.5462514417531719,1.079313398042273,0.5919880891473208,GPL6480,unchanged
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE30219,ok,289,196,0.538955894004754,1.177067464861571,0.0340129763081636,GPL570,unchanged
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE31210,ok,226,35,0.6302426482403986,1.4646219286157478,0.01198199619627258,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE3141,ok,110,58,0.5481463649494464,1.0966870010132548,0.47484316776682317,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE37745,ok,106,77,0.5209797229471994,0.9879457678967078,0.9166098782190641,GPL570,unchanged
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE42127,ok,131,41,0.4858361254949741,1.0057653615716668,0.9711735585849561,GPL6884,unchanged
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE50081,ok,128,52,0.4551865332120109,0.844720960325837,0.2513191870602699,GPL570,unchanged
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE68465,ok,442,236,0.5125984370985052,1.0210683142500345,0.7425481972220349,GPL96,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_zscore_linear,cohort_zscore,100,0,0.001,GSE72094,ok,398,113,0.558051689860835,1.2273912645078806,0.027141221432167614,GPL15048,unchanged
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE13213,ok,117,49,0.6212226066897347,1.2839872044539489,0.06604122449878512,GPL6480,unchanged
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE30219,ok,289,196,0.5681838189981513,1.2695791164493428,0.0011257302662003746,GPL570,unchanged
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE31210,ok,226,35,0.6525791418929776,1.722289866127051,0.0008544392789199827,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE3141,ok,110,58,0.5772749157438614,1.2986061266446305,0.040723670605130706,GPL570,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE37745,ok,106,77,0.5304155792009637,1.0676294429669768,0.5693445428227217,GPL570,unchanged
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE42127,ok,131,41,0.5893999390801097,1.3097860476135679,0.0842125055700932,GPL6884,unchanged
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE50081,ok,128,52,0.5648316651501365,1.2411052944464638,0.12113389744201701,GPL570,unchanged
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE68465,ok,442,236,0.5489653713024683,1.0685729783592057,0.29539306121128167,GPL96,log2(x+1) applied to unlogged-looking matrix
+best_TCGA_validation_cohort_zscore_deep,cohort_zscore,100,4,0.1,GSE72094,ok,398,113,0.5911530815109344,1.3660183993730801,0.00108009746822555,GPL15048,unchanged
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE13213,ok,117,49,0.6283737024221453,1.2731489930351199,0.06687970053151487,GPL6480,unchanged
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE30219,ok,289,196,0.5764591953517035,1.319458427808851,0.0005624118751606968,GPL570,unchanged
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE31210,ok,226,35,0.7017515667684396,1.6120838744803536,0.0008007577317267289,GPL570,log2(x+1) applied to unlogged-looking matrix
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE3141,ok,110,58,0.5835339431872894,1.3195648139653442,0.035624643417454915,GPL570,log2(x+1) applied to unlogged-looking matrix
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE37745,ok,106,77,0.49066452519574383,0.981838305106571,0.8766662941997883,GPL570,unchanged
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE42127,ok,131,41,0.5851355467560159,1.4359775276657951,0.03574468675536499,GPL6884,unchanged
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE50081,ok,128,52,0.5518653321201092,1.0359630494079057,0.7966929033384056,GPL570,unchanged
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE68465,ok,442,236,0.5800873652866579,1.211778310889778,0.0036809223469435825,GPL96,log2(x+1) applied to unlogged-looking matrix
+posthoc_best_external_linear,tcga_locked,150,0,0.1,GSE72094,ok,398,113,0.6075215374420145,1.3966023821302023,0.0001779831394316006,GPL15048,unchanged
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE13213,ok,117,49,0.6212226066897347,1.2839872044539489,0.06604122449878512,GPL6480,unchanged
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE30219,ok,289,196,0.5681838189981513,1.2695791164493428,0.0011257302662003746,GPL570,unchanged
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE31210,ok,226,35,0.6525791418929776,1.722289866127051,0.0008544392789199827,GPL570,log2(x+1) applied to unlogged-looking matrix
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE3141,ok,110,58,0.5772749157438614,1.2986061266446305,0.040723670605130706,GPL570,log2(x+1) applied to unlogged-looking matrix
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE37745,ok,106,77,0.5304155792009637,1.0676294429669768,0.5693445428227217,GPL570,unchanged
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE42127,ok,131,41,0.5893999390801097,1.3097860476135679,0.0842125055700932,GPL6884,unchanged
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE50081,ok,128,52,0.5648316651501365,1.2411052944464638,0.12113389744201701,GPL570,unchanged
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE68465,ok,442,236,0.5489653713024683,1.0685729783592057,0.29539306121128167,GPL96,log2(x+1) applied to unlogged-looking matrix
+posthoc_best_external_deep,cohort_zscore,100,4,0.1,GSE72094,ok,398,113,0.5911530815109344,1.3660183993730801,0.00108009746822555,GPL15048,unchanged
